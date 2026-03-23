@@ -15,7 +15,7 @@ opencv = { version = "0.98.0", features = [
 ] } #https://github.com/twistedfall/opencv-rust/commit/bf994662871dc2570b5a84fe914c3dcb2909e242
 
 [target.'cfg(windows)'.dependencies]
-opencv = "0.94.2"
+opencv = "0.98.2"
 
 [features]
 
